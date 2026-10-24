@@ -10,9 +10,9 @@ namespace Tyuiu.SologubNV.Sprint3.Task0.V28.Test
             DataService ds = new DataService();
             double x = 0.25;
             int startv = 1;
-            int endv = 18;
+            int endv = 17;
             double res = ds.GetMultiplySeries(x, startv, endv);
-            double wait = 4.390625;
+            double wait = 411589.537;
             Assert.AreEqual(wait, res);
         }
     }

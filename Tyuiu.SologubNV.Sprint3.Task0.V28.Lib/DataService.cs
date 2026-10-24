@@ -5,13 +5,13 @@ namespace Tyuiu.SologubNV.Sprint3.Task0.V28.Lib
     {
         public double GetMultiplySeries(double value, int startValue, int stopValue)
         {
-            double result = 0;
+            double result = 1;
             int i;
             for (i = startValue; i <= stopValue; i++)
             {
-                result += (Math.Pow(value, 3) * i) + 2;
+                result *= (Math.Pow(value, 3) * i + 2);
             }
-            return result;
+            return Math.Round(result,3);
 
         }
     }

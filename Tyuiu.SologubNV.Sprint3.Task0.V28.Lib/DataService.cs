@@ -9,9 +9,9 @@ namespace Tyuiu.SologubNV.Sprint3.Task0.V28.Lib
             int i;
             for (i = startValue; i <= stopValue; i++)
             {
-                result += Math.Pow(value, 3) * i;
+                result += (Math.Pow(value, 3) * i) + 2;
             }
-            return result + 2;
+            return result;
 
         }
     }

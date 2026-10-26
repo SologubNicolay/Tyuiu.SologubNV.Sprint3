@@ -1,5 +1,5 @@
-﻿using Tyuiu.SologubNV.Sprint3.Task6.V24.Lib;
-namespace Tyuiu.SologubNV.Sprint3.Task6.V24.Test
+﻿using Tyuiu.SologubNV.Sprint3.Task7.V24.Lib;
+namespace Tyuiu.SologubNV.Sprint3.Task7.V24.Test
 {
     [TestClass]
     public sealed class DataServiceTest

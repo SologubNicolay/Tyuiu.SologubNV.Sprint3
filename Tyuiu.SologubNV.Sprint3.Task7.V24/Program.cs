@@ -1,4 +1,4 @@
-﻿using Tyuiu.SologubNV.Sprint3.Task6.V24.Lib;
+﻿using Tyuiu.SologubNV.Sprint3.Task7.V24.Lib;
 using static System.Console;
 class Program
 {

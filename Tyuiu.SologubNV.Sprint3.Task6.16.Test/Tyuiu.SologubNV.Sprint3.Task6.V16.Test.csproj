@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Tyuiu.SologubNV.Sprint3.Task6._16.Test</RootNamespace>
+    <RootNamespace>Tyuiu.SologubNV.Sprint3.Task6.V16.Test</RootNamespace>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
